@@ -1,4 +1,4 @@
-package net.codejava.javaee;
+package com.qaagility.javaee;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
