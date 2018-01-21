@@ -1,4 +1,4 @@
-package com.qaagility.controller;
+package com.qaagility.javaee;
 
 public class Calcmul {
 
