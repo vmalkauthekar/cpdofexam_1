@@ -1,3 +1,10 @@
+package com.qaagility.controller;
+
+import org.junit.Test;
+import static org.junit.Assert.assertEquals;
+import com.qaagility.javaee.Calculator;
+ 
+
 public class AppTest {
 
 Calculator myCalc = new Calculator();
@@ -19,4 +26,4 @@ Calculator myCalc = new Calculator();
         assertEquals("Result", 9, myCalc.add(3,6));
       }
 
-    }
+}
